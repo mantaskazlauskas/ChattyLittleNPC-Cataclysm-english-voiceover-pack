@@ -1,4 +1,4 @@
-## Interface: 110205, 50501, 40402
+## Interface: 110205, 50502, 40402
 ## Title: Chatty Little: NPC Cataclysm
 ## Notes: This is a quest voiceover pack for Chatty Little NPC addon.
 ## Author: Tuubby
