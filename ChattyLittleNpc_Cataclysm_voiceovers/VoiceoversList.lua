@@ -1,5 +1,5 @@
 ---@class ChattyLittleNpc_Cataclysm_voiceovers
-local ChattyLittleNpc_Cataclysm_voiceovers = LibStub("AceAddon-3.0"):GetAddon("ChattyLittleNpc_Cataclysm_voiceovers")
+local ChattyLittleNpc_Cataclysm_voiceovers = _G["ChattyLittleNpc_Cataclysm_voiceovers"]
 
 ChattyLittleNpc_Cataclysm_voiceovers.Voiceovers = {
     '11196_Comp.ogg',
