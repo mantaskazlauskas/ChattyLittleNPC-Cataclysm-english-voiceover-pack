@@ -1,7 +1,7 @@
----@class ChattyLittleNpc_Cataclysm_voiceovers
-local ChattyLittleNpc_Cataclysm_voiceovers = _G["ChattyLittleNpc_Cataclysm_voiceovers"]
+---@class ChattyLittleNpc_Cataclysm_enUS_voiceovers
+local ChattyLittleNpc_Cataclysm_enUS_voiceovers = _G["ChattyLittleNpc_Cataclysm_enUS_voiceovers"]
 
-ChattyLittleNpc_Cataclysm_voiceovers.Voiceovers = {
+ChattyLittleNpc_Cataclysm_enUS_voiceovers.Voiceovers = {
     '11196_Comp.ogg',
     '11196_Desc.ogg',
     '11196_Prog.ogg',
@@ -13973,7 +13973,7 @@ ChattyLittleNpc_Cataclysm_voiceovers.Voiceovers = {
     '9546_Desc.ogg',
 }
 
-ChattyLittleNpc_Cataclysm_voiceovers.VoiceoverDurations = {
+ChattyLittleNpc_Cataclysm_enUS_voiceovers.VoiceoverDurations = {
     ["11196_Comp.ogg"] = 10.17,
     ["11196_Desc.ogg"] = 22.08,
     ["11196_Prog.ogg"] = 5.33,
