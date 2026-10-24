@@ -1,5 +1,6 @@
 ---@class ChattyLittleNpc_Cataclysm_enUS_voiceovers
-local ChattyLittleNpc_Cataclysm_enUS_voiceovers = _G["ChattyLittleNpc_Cataclysm_enUS_voiceovers"]
+local ChattyLittleNpc_Cataclysm_enUS_voiceovers = {}
+_G["ChattyLittleNpc_Cataclysm_enUS_voiceovers"] = ChattyLittleNpc_Cataclysm_enUS_voiceovers
 
 ChattyLittleNpc_Cataclysm_enUS_voiceovers.Voiceovers = {
     '11196_Comp.ogg',
